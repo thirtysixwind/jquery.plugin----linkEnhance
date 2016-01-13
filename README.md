@@ -1,6 +1,6 @@
 # Usage
 
-$(elements).linkEnhance(options);
+`$(elements).linkEnhance(options);`
 
 options为对象，默认值：
 ```javascript
